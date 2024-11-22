@@ -1,5 +1,6 @@
 # SearchAppRedux
 
+[![Watch the video]
+(https://github.com/dharaahuja/SearchAppRedux/blob/main/Screen%20Recording%202024-11-23%20at%201.38.55%20AM.mov)]
 
-Uploading Screen Recording 2024-11-23 at 1.38.55 AM.mov…
 
